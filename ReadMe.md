@@ -132,6 +132,7 @@ When a player beings a highest play, each other play **must** check if they can 
 
 When **Trumps** are played to beat out a **Highest** play, a player must play a hand that beats every part of the **Highest** play.  If a Single and Consecutive pair are played, then a player has to beat both the Single and Consecutive Pair in **Trump**.  To evaluate two **Trump** plays, look at the most difficult category of play, ie. Consecutives > Pairs > Singles.
 Examples of **Highest** given Trump Suit and Rank are **7♣**
+
 | Cards Lead       | Other players play                 | Remarks                                                                                                                                               |
 | ---------------- | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | K♦-Q♦            |                                    | Can only be played if both A♦s and the other K♦ have been played. The 2nd Q♦ will be beat because it is the 2nd one played                            |
