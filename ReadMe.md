@@ -112,9 +112,10 @@ Other players must follow suit by playing cards according to the following prior
 If a player has no cards in the lead suit, only then can they play a consecutive pair of trumps.
 
 Examples of consecutive pairs given Trump Suit and Rank are **7♣**
+
 | Cards Lead                    | Consecutive Pairs?                                                           |
 | ----------------------------- | ---------------------------------------------------------------------------- |
-| 5♠-5♠-4♠-4♠                   |  Yes                                                                         |
+| 5♠-5♠-4♠-4♠                   | Yes                                                                          |
 | A♦-A♦-K♦-K♦-Q♦-Q♦             | Yes, triple consecutive                                                      |
 | 4♣-4♣-3♣-3♣                   | Yes, consecutive pair in Trump                                               |
 | 8♥-8♥-6♥-6♥                   | Yes, when 7 is trump, 8 and 6 become consecutive                             |
