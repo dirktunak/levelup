@@ -112,18 +112,18 @@ Other players must follow suit by playing cards according to the following prior
 If a player has no cards in the lead suit, only then can they play a consecutive pair of trumps.
 
 Examples of consecutive pairs given Trump Suit and Rank are **7♣**
-| Cards Lead | Consecutive Pairs? |
-| ---------- | ------------------ |
-| 5♠-5♠-4♠-4♠|  Yes                |
-| A♦-A♦-K♦-K♦-Q♦-Q♦| Yes, triple consecutive |
-| 4♣-4♣-3♣-3♣ | Yes, consecutive pair in Trump |
-| 8♥-8♥-6♥-6♥ | Yes, when 7 is trump, 8 and 6 become consecutive |
-| 7♣-7♣-7♠-7♠-A♣-A♣ | Yes, order of cards follow 7♣-7(other suits)-A♣ |
-| Black Joker-Black Joker-7♣-7♣| Yes
-| 7♠-7♠-7♦-7♦ | Yes, 7(other suits) are consecutive with each other
-|Red Joker-Red Joker-7♣-7♣ | No, order of jokers is Red Joker-Black Joker-7♣
-| 7♠-7♠-6♠-6♠ | No, 7♠ is part of the trump suit, not ♠ suit.
-| 7♣-7♣-8♣-8♣ | No, since 7♣ is Trump Rank and Suit, it is just below the Jokers in strength.
+| Cards Lead                   | Consecutive Pairs? |
+| ---------------------------- | ------------------ |
+| 5♠-5♠-4♠-4♠                  |  Yes                |
+| A♦-A♦-K♦-K♦-Q♦-Q♦            | Yes, triple consecutive |
+| 4♣-4♣-3♣-3♣                  | Yes, consecutive pair in Trump |
+| 8♥-8♥-6♥-6♥                  | Yes, when 7 is trump, 8 and 6 become consecutive |
+| 7♣-7♣-7♠-7♠-A♣-A♣            | Yes, order of cards follow 7♣-7(other suits)-A♣ |
+| Black Joker-Black Joker-7♣-7♣| Yes |
+| 7♠-7♠-7♦-7♦                  | Yes, 7(other suits) are consecutive with each other|
+|Red Joker-Red Joker-7♣-7♣     | No, order of jokers is Red Joker-Black Joker-7♣|
+| 7♠-7♠-6♠-6♠                  | No, 7♠ is part of the trump suit, not ♠ suit.|
+| 7♣-7♣-8♣-8♣                  | No, since 7♣ is Trump Rank and Suit, it is just below the Jokers in strength.|
 
 ### Highest
 A player can mix and match singles, pairs and consecutive pairs of the same suit in a **Highest** play.
@@ -131,13 +131,13 @@ When a player beings a highest play, each other play **must** check if they can 
 
 When **Trumps** are played to beat out a **Highest** play, a player must play a hand that beats every part of the **Highest** play.  If a Single and Consecutive pair are played, then a player has to beat both the Single and Consecutive Pair in **Trump**.  To evaluate two **Trump** plays, look at the most difficult category of play, ie. Consecutives > Pairs > Singles.
 Examples of **Highest** given Trump Suit and Rank are **7♣**
-| Cards Lead | Other players play | Remarks
+| Cards Lead | Other players play | Remarks |
 | ---------- | ------------------ | --------|
-| K♦-Q♦     | | Can only be played if both A♦s and the other K♦ have been played. The 2nd Q♦ will be beat because it is the 2nd one played.
-| |5♣-5♣ <br> 10♣- 3♣ | Since the lead was for two singles, the highest single will win.  The player that played 10♣ will win, despite a pair of 5♣ being played.
-| K♠-Q♠-Q♠-10♠-10♠ | | Can only be played if there are no more A♠s, and no one has a pair of J♠s.
- | |3♣-9♣-9♣-2♣-2♣ <br> A♣-6♣-6♣-5♣-5♣| First player wins.  The most difficult category is a Pair, so the 9♣ pair is the highest, despite the 2nd player having the A♣ and a consecutive pair.
-| A♥-3♥-3♥-2♥-2♥ | | Can only be played if no other player can be the 3♥-2♥ consecutive pair.
-| |3♣-9♣-9♣-2♣-2♣ <br> A♣-6♣-6♣-5♣-5♣| Second player wins.  This time, the first player does not beat all the parts, since they do not have a consecutive pair in trump.  The first player will not beat the original play.
-|A♦-K♦-K♦|| This is guaranteed highest in the suit.
-||7♥-7♥-2♣ <br> 7♠-7♠-5♣| Since the two pairs of **7**s are equivalent, the first one played will win, regardless of the strength of the single trump.
+| K♦-Q♦     | | Can only be played if both A♦s and the other K♦ have been played. The 2nd Q♦ will be beat because it is the 2nd one played.|
+| |5♣-5♣ <br> 10♣- 3♣ | Since the lead was for two singles, the highest single will win.  The player that played 10♣ will win, despite a pair of 5♣ being played.|
+| K♠-Q♠-Q♠-10♠-10♠ | | Can only be played if there are no more A♠s, and no one has a pair of J♠s.|
+ | |3♣-9♣-9♣-2♣-2♣ <br> A♣-6♣-6♣-5♣-5♣| First player wins.  The most difficult category is a Pair, so the 9♣ pair is the highest, despite the 2nd player having the A♣ and a consecutive pair.|
+| A♥-3♥-3♥-2♥-2♥ | | Can only be played if no other player can be the 3♥-2♥ consecutive pair.|
+| |3♣-9♣-9♣-2♣-2♣ <br> A♣-6♣-6♣-5♣-5♣| Second player wins.  This time, the first player does not beat all the parts, since they do not have a consecutive pair in trump.  The first player will not beat the original play.|
+|A♦-K♦-K♦|| This is guaranteed highest in the suit.|
+||7♥-7♥-2♣ <br> 7♠-7♠-5♣| Since the two pairs of **7**s are equivalent, the first one played will win, regardless of the strength of the single trump.|
