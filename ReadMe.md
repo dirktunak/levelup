@@ -134,4 +134,4 @@ When **Trumps** are played to beat out a **Highest** play, a player must play a 
 Examples of **Highest** given Trump Suit and Rank are **7♣**
 | Cards Lead       | Other players play                  | Remarks                                                                                                                                               |
 | ---              | ---                                 | ---                                                                                                                                                   |
-| K♦-Q♦            |                                     | Can only be played if both A♦s and the other K♦ have been played. The 2nd Q♦ will be beat because it is the 2nd one played                            |
+| K♦-Q♦            |          d                          | Can only be played if both A♦s and the other K♦ have been played. The 2nd Q♦ will be beat because it is the 2nd one played                            |
