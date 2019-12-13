@@ -112,18 +112,18 @@ Other players must follow suit by playing cards according to the following prior
 If a player has no cards in the lead suit, only then can they play a consecutive pair of trumps.
 
 Examples of consecutive pairs given Trump Suit and Rank are **7♣**
-| Cards Lead                   | Consecutive Pairs? |
-| ---------------------------- | ------------------ |
-| 5♠-5♠-4♠-4♠                  |  Yes                |
-| A♦-A♦-K♦-K♦-Q♦-Q♦            | Yes, triple consecutive |
-| 4♣-4♣-3♣-3♣                  | Yes, consecutive pair in Trump |
-| 8♥-8♥-6♥-6♥                  | Yes, when 7 is trump, 8 and 6 become consecutive |
-| 7♣-7♣-7♠-7♠-A♣-A♣            | Yes, order of cards follow 7♣-7(other suits)-A♣ |
-| Black Joker-Black Joker-7♣-7♣| Yes |
-| 7♠-7♠-7♦-7♦                  | Yes, 7(other suits) are consecutive with each other|
-|Red Joker-Red Joker-7♣-7♣     | No, order of jokers is Red Joker-Black Joker-7♣|
-| 7♠-7♠-6♠-6♠                  | No, 7♠ is part of the trump suit, not ♠ suit.|
-| 7♣-7♣-8♣-8♣                  | No, since 7♣ is Trump Rank and Suit, it is just below the Jokers in strength.|
+| Cards Lead                    | Consecutive Pairs?                                                           |
+| ----------------------------- | ---------------------------------------------------------------------------- |
+| 5♠-5♠-4♠-4♠                   |  Yes                                                                         |
+| A♦-A♦-K♦-K♦-Q♦-Q♦             | Yes, triple consecutive                                                      |
+| 4♣-4♣-3♣-3♣                   | Yes, consecutive pair in Trump                                               |
+| 8♥-8♥-6♥-6♥                   | Yes, when 7 is trump, 8 and 6 become consecutive                             |
+| 7♣-7♣-7♠-7♠-A♣-A♣             | Yes, order of cards follow 7♣-7(other suits)-A♣                              |
+| Black Joker-Black Joker-7♣-7♣ | Yes                                                                          |
+| 7♠-7♠-7♦-7♦                   | Yes, 7(other suits) are consecutive with each other                          |
+| Red Joker-Red Joker-7♣-7♣     | No, order of jokers is Red Joker-Black Joker-7♣                              |
+| 7♠-7♠-6♠-6♠                   | No, 7♠ is part of the trump suit, not ♠ suit.                                |
+| 7♣-7♣-8♣-8♣                   | No, since 7♣ is Trump Rank and Suit, it is just below the Jokers in strength |
 
 ### Highest
 A player can mix and match singles, pairs and consecutive pairs of the same suit in a **Highest** play.
