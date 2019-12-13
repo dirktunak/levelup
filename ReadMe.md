@@ -132,13 +132,13 @@ When a player beings a highest play, each other play **must** check if they can 
 
 When **Trumps** are played to beat out a **Highest** play, a player must play a hand that beats every part of the **Highest** play.  If a Single and Consecutive pair are played, then a player has to beat both the Single and Consecutive Pair in **Trump**.  To evaluate two **Trump** plays, look at the most difficult category of play, ie. Consecutives > Pairs > Singles.
 Examples of **Highest** given Trump Suit and Rank are **7♣**
-| Cards Lead | Other players play | Remarks |
-| ---------- | ------------------ | --------|
-| K♦-Q♦     | | Can only be played if both A♦s and the other K♦ have been played. The 2nd Q♦ will be beat because it is the 2nd one played.|
-| |5♣-5♣ <br> 10♣- 3♣ | Since the lead was for two singles, the highest single will win.  The player that played 10♣ will win, despite a pair of 5♣ being played.|
-| K♠-Q♠-Q♠-10♠-10♠ | | Can only be played if there are no more A♠s, and no one has a pair of J♠s.|
- | |3♣-9♣-9♣-2♣-2♣ <br> A♣-6♣-6♣-5♣-5♣| First player wins.  The most difficult category is a Pair, so the 9♣ pair is the highest, despite the 2nd player having the A♣ and a consecutive pair.|
-| A♥-3♥-3♥-2♥-2♥ | | Can only be played if no other player can be the 3♥-2♥ consecutive pair.|
-| |3♣-9♣-9♣-2♣-2♣ <br> A♣-6♣-6♣-5♣-5♣| Second player wins.  This time, the first player does not beat all the parts, since they do not have a consecutive pair in trump.  The first player will not beat the original play.|
-|A♦-K♦-K♦|| This is guaranteed highest in the suit.|
-||7♥-7♥-2♣ <br> 7♠-7♠-5♣| Since the two pairs of **7**s are equivalent, the first one played will win, regardless of the strength of the single trump.|
+| Cards Lead       | Other players play                 | Remarks                                                                                                                                               |
+| ---------------- | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| K♦-Q♦            |                                    | Can only be played if both A♦s and the other K♦ have been played. The 2nd Q♦ will be beat because it is the 2nd one played                            |
+|                  | 5♣-5♣ <br> 10♣- 3♣                 | Since the lead was for two singles, the highest single will win.  The player that played 10♣ will win, despite a pair of 5♣ being played              |
+| K♠-Q♠-Q♠-10♠-10♠ |                                    | Can only be played if there are no more A♠s, and no one has a pair of J♠s                                                                             |
+|                  | 3♣-9♣-9♣-2♣-2♣ <br> A♣-6♣-6♣-5♣-5♣ | First player wins.  The most difficult category is a Pair, so the 9♣ pair is the highest, despite the 2nd player having the A♣ and a consecutive pair |
+| A♥-3♥-3♥-2♥-2♥   |                                    | Can only be played if no other player can be the 3♥-2♥ consecutive pair                                                                               |
+|                  | 3♣-9♣-9♣-2♣-2♣ <br> A♣-6♣-6♣-5♣-5♣ | Second player wins.  The first player does not have a consecutive pair, and does not beat the original play                                           |
+| A♦-K♦-K♦         |                                    | This is guaranteed highest in the suit                                                                                                                |
+|                  | 7♥-7♥-2♣ <br> 7♠-7♠-5♣             | Since the two pairs of **7**s are equivalent, the first one played will win, regardless of the strength of the single trump                           |
