@@ -1,0 +1,3 @@
+Have an ec2 backend
+have github.io as frontend
+
